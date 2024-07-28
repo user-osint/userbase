@@ -31,7 +31,7 @@ ASCII_ART = r"""
                                      ║SnusBase Tool by user-osint║
                                      ║Version bêta               ║
                                      ║Discord : .osint.user.     ║
-                                     ║GitHub : user_osint        ║
+                                     ║GitHub : user-osint        ║
                                      ║Instagram : soon...        ║
                                      ║Web Site : soon...         ║
                                      ╚═══════════════════════════╝
